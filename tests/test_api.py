@@ -1,6 +1,3 @@
-"""
-API тесты для MTS Shop
-"""
 import pytest
 import allure
 from config.config import config
